@@ -1,0 +1,7 @@
+{
+  "name": "Remix: MindBridge",
+  "description": "A compassionate companion for the waiting period before your first mental health appointment. Track symptoms, chat with a supportive AI, and generate reports for your clinician.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
