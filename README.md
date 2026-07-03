@@ -1,8 +1,8 @@
-# Bridge-to-Care 🌿
+# Mind Bridge 🌿
 
-**Bridge-to-Care** is a compassionate, AI-powered companion designed to support individuals during the often-difficult waiting period before their first mental health appointment. It serves as a bridge, providing emotional support, symptom tracking, and data-driven insights to share with clinicians.
+**Mind Bridge** is a compassionate, AI-powered companion designed to support individuals during the often-difficult waiting period before their first mental health appointment. It serves as a bridge, providing emotional support, symptom tracking, and data-driven insights to share with clinicians.
 
-![Bridge-to-Care Logo](https://img.icons8.com/fluency/96/heart-with-pulse.png)
+![Mind Bridge Logo](https://img.icons8.com/fluency/96/heart-with-pulse.png)
 
 ## 🌟 Key Features
 
@@ -45,8 +45,8 @@
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/Bridge-to-Care.git
-    cd Bridge-to-Care
+    git clone https://github.com/your-username/Mind Bridge.git
+    cd Mind Bridge
     ```
 
 2.  **Install dependencies**:
@@ -77,7 +77,7 @@
 -   `/src/lib`: Shared utilities and animation constants.
 
 ## 🛡️ Safety Warning
-Bridge-to-Care is an AI-powered support tool, **not a replacement for professional clinical care or crisis services**. If you are in immediate danger, please contact your local emergency services or a crisis hotline (e.g., 988 in the US).
+Mind Bridge is an AI-powered support tool, **not a replacement for professional clinical care or crisis services**. If you are in immediate danger, please contact your local emergency services or a crisis hotline (e.g., 988 in the US).
 
 ---
 *Created with ❤️ to help bridge the gap in mental healthcare.*
